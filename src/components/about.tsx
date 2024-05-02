@@ -7,7 +7,7 @@ import { RiGithubLine } from "react-icons/ri";
 const About = () => {
   return (
     <div className="border mt-40 justify-center ">
-      <h1 className="animate-typing overflow-hidden whitespace-nowrap border-r-4 border-r-white pr-5 text-9xl text-black font-bold justify-center">
+      <h1 className="animate-typing overflow-hidden whitespace-nowrap border-r-4 border-r-white pr-5 text-9xl font-bold justify-center text-black text-[80px]">
         Jaya Lohana
       </h1>
       <div className="flex space-x-4 mt-4">
