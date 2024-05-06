@@ -24,6 +24,54 @@ function Experience() {
         "Assisted in implementing and maintaining backend systems, utilizing technologies such as Spring Boot and RESTful APIs.",
       ],
     },
+    {
+      imgSrc: "./img/Gaotek.jpeg",
+      title: "GaoTek Inc.",
+      position: "Software Developer Intern",
+      date: "Jan 2023 - Present",
+
+      text: [
+        "Collaborated with the team to design and develop software features, ensuring adherence to coding standards.",
+        "Assisted in optimizing database queries and implementing efficient business logic to enhance system efficiency and reduce response time",
+        "Assisted in implementing and maintaining backend systems, utilizing technologies such as Spring Boot and RESTful APIs.",
+      ],
+    },
+    {
+      imgSrc: "./img/Gaotek.jpeg",
+      title: "GaoTek Inc.",
+      position: "Software Developer Intern",
+      date: "Jan 2023 - Present",
+
+      text: [
+        "Collaborated with the team to design and develop software features, ensuring adherence to coding standards.",
+        "Assisted in optimizing database queries and implementing efficient business logic to enhance system efficiency and reduce response time",
+        "Assisted in implementing and maintaining backend systems, utilizing technologies such as Spring Boot and RESTful APIs.",
+      ],
+    },
+    {
+      imgSrc: "./img/Gaotek.jpeg",
+      title: "GaoTek Inc.",
+      position: "Software Developer Intern",
+      date: "Jan 2023 - Present",
+
+      text: [
+        "Collaborated with the team to design and develop software features, ensuring adherence to coding standards.",
+        "Assisted in optimizing database queries and implementing efficient business logic to enhance system efficiency and reduce response time",
+        "Assisted in implementing and maintaining backend systems, utilizing technologies such as Spring Boot and RESTful APIs.",
+      ],
+    },
+    {
+      imgSrc: "./img/Gaotek.jpeg",
+      title: "GaoTek Inc.",
+      position: "Software Developer Intern",
+      date: "Jan 2023 - Present",
+
+      text: [
+        "Collaborated with the team to design and develop software features, ensuring adherence to coding standards.",
+        "Assisted in optimizing database queries and implementing efficient business logic to enhance system efficiency and reduce response time",
+        "Assisted in implementing and maintaining backend systems, utilizing technologies such as Spring Boot and RESTful APIs.",
+      ],
+    },
     // Add more card objects to the array as needed
   ];
 
