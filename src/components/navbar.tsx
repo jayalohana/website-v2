@@ -36,6 +36,24 @@ const Navbar = () => {
         <SlScreenDesktop />
       </a>
       <a
+        href="#Projects"
+        onClick={() => setActiveNavbar("#projects")}
+        className={`mx-4 p-3 rounded-full font-black flex justify-center items-center text-black text-opacity-900 text-xl ${
+          activeNavbar === "#projects" ? " text-opacity-100" : ""
+        }  hover:text-black-300 cursor-pointer transform hover:scale-125 transition duration-150 ease-in-out hover:bg-opacity-800`}
+      >
+        <SlScreenDesktop />
+      </a>
+      <a
+        href="#Projects"
+        onClick={() => setActiveNavbar("#projects")}
+        className={`mx-4 p-3 rounded-full font-black flex justify-center items-center text-black text-opacity-900 text-xl ${
+          activeNavbar === "#projects" ? " text-opacity-100" : ""
+        }  hover:text-black-300 cursor-pointer transform hover:scale-125 transition duration-150 ease-in-out hover:bg-opacity-800`}
+      >
+        <SlScreenDesktop />
+      </a>
+      <a
         href="#Experience"
         onClick={() => setActiveNavbar("#experience")}
         className={`mx-4 p-3 font-black rounded-full flex justify-center items-center text-black text-opacity-900 text-xl ${
